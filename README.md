@@ -1,2 +1,2 @@
-# Projeto-Recupera-o-de-Informa-o-Musical
+# Projeto-Music-Information-Retrieval
 Trabalho final para a disciplina de Recuperação de Informação Musical
